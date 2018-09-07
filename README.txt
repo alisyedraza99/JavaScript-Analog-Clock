@@ -1,0 +1,1 @@
+This is a simple analog clock made for the web using svgs and a bit of JavaScript.
